@@ -135,6 +135,20 @@ We welcome developers, designers, researchers, organizers, and dreamers.
 
 ---
 
+## 🛠 Start Here (First Step)
+
+If you want to contribute:
+
+1) Join the workspace → https://discord.gg/tJ7WCF7fA
+2) Go to **#introduce-yourself**
+3) Tell us your background + what you feel drawn to
+
+We will guide you into the right role and first task.
+No pressure. We move step-by-step.
+
+
+---
+
 *This README is the starting point for collaboration and documentation. Feel free to extend and adjust as we grow!*
 
 ---
